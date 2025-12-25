@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "BLACK MEMORY",
+  "base_artist": "THE ORAL CIGARETTES",
+  "createdAt": "2025-12-25T11:21:12.531253Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Black Memory",
+      "artist": "THE ORAL CIGARETTES",
+      "has_synced": false,
+      "path": "select/01_Black_Memory_THE_ORAL_CIGARETTES.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Black Memory (feat. Hiro)",
+      "artist": "THE ORAL CIGARETTES",
+      "has_synced": true,
+      "path": "select/02_Black_Memory_(feat._Hiro)_THE_ORAL_CIGARETTES.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "BLACK MEMORY feat.Hiro (MY FIRST STORY)",
+      "artist": "The Oral Cigarettes",
+      "has_synced": true,
+      "path": "select/03_BLACK_MEMORY_feat.Hiro_(MY_FIRST_STORY)_The_Oral_Cigarettes.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "BLACK MEMORY",
+      "artist": "THE ORAL CIGARETTES",
+      "has_synced": true,
+      "path": "select/04_BLACK_MEMORY_THE_ORAL_CIGARETTES.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "BLACK MEMORY",
+      "artist": "ORAL CIGARETTES, THE",
+      "has_synced": true,
+      "path": "select/05_BLACK_MEMORY_ORAL_CIGARETTES,_THE.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "BLACK MEMORY (2019.3.17 Live at YOKOHAMA ARENA)",
+      "artist": "The Oral Cigarettes",
+      "has_synced": true,
+      "path": "select/06_BLACK_MEMORY_(2019.3.17_Live_at_YOKOHAMA_ARENA)_The_Oral_Cigarettes.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Black Memory",
+      "artist": "Romix",
+      "has_synced": false,
+      "path": "select/07_Black_Memory_Romix.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "BLACK MEMORY (Live at YOKOHAMA ARENA 2019.3.17)",
+      "artist": "THE ORAL CIGARETTES",
+      "has_synced": true,
+      "path": "select/08_BLACK_MEMORY_(Live_at_YOKOHAMA_ARENA_2019.3.17)_THE_ORAL_CIGARETTES.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "BLACK MEMORY",
+      "artist": "THE ORAL CIGARETTES",
+      "has_synced": true,
+      "path": "select/09_BLACK_MEMORY_THE_ORAL_CIGARETTES.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "BLACK MEMORY",
+      "artist": "THE ORAL CIGARETTES",
+      "has_synced": false,
+      "path": "select/pl_01_BLACK_MEMORY_THE_ORAL_CIGARETTES.txt"
+    }
+  ]
+}
